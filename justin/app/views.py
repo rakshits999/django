@@ -12,7 +12,7 @@ from rest_framework import permissions
 from rest_framework.decorators import api_view, authentication_classes, permission_classes
 import openai
 
-openai.api_key = "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"
+openai.api_key = "your api key"
 
 
 
